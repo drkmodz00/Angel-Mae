@@ -43,14 +43,6 @@ Computer troubleshooting, software troubleshooting, system setup, and technical 
 
 ### Student Assistant – Technical Assistant
 
-Father Saturnino Urios University (FSUU) | 2023–Present
-
-- Provided technical assistance to students, faculty, and staff with computer and software-related concerns.
-- Assisted with computer laboratory setup, system configuration, and basic troubleshooting.
-- Supported users with basic hardware, software, and connectivity issues.
-- Helped organize and maintain digital files and technical documentation.
-- Followed established procedures for handling technical concerns and escalated issues when necessary.
-- Assisted with daily computer laboratory and IT-related operations.
 
 ### Freelance Software Developer
 
