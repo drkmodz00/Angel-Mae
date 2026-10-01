@@ -1,16 +1,16 @@
 
 
-## Professional Introduction
+## Professional Sumamry
 
 Information Technology student with practical experience in technical support, software development, software testing, and databases. Experienced in working independently on software projects, organizing information, identifying errors, and following established project requirements. Detail-oriented, self-motivated, and adaptable with experience in both technical support environments and independent development work. Seeking part-time or project-based remote opportunities where accuracy, research, and structured information handling are valued.
 
-## Professional Focus
+## Core Competencies
 
 My background provides transferable skills relevant to roles in data evaluation, data annotation, data verification, quality assurance, software testing, technical support, software development, and database management.
 
-## Technical Stack
+## Technical Skills
 
-### Languages
+### Programming & Markup
 
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -36,6 +36,8 @@ SQL
 ### IT & Technical Support
 
 Computer troubleshooting, software troubleshooting, system setup, and technical documentation.
+
+## Experience
 
 ### Freelance Software Developer
 
@@ -71,7 +73,7 @@ Bachelor of Information Technology
 Angel Mae Morado  
 Agusan del Norte, Philippines  
 
-[maemorado29@gmail.com](mailto:maemorado29@gmail.com)  
+[angelmaemorado00@gmail.com](mailto:angelmaemorado00@gmail.com)  
 [GitHub](https://github.com/maemorado)  
 [LinkedIn](YOUR_LINKEDIN_URL)  
 [Portfolio](YOUR_PORTFOLIO_URL)
